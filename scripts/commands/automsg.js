@@ -1,4 +1,4 @@
-module.exports.config = {
+okmodule.exports.config = {
     name: "autotime",
   version: "1.0.0",
   permission: 0,
@@ -73,7 +73,7 @@ const nam = [{
 },
 						 {
     timer: '3:00:00 PM',
-    message: ['~এখন দুপুর ২টা বাজে গোসল করে সবাই দুপুরের খাবার খেয়ে নাও ☺️']
+    message: ['~এখন দুপুর ২টা বাজে  যারা এখনো নামাজ পড়েন‌ নি নামাজ পড়ে নিন ☺️']
 },
 						 {
     timer: '4:00:00 PM',
